@@ -46,5 +46,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanAlekseenko-sys&show_icons=true&theme=radical" alt="Ivan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanAlekseenko-sys&show_icons=true&theme=radical&hide_rank=true" alt="Ivan's GitHub stats"/>
 </p>
