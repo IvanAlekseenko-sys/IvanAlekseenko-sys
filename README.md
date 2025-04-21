@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">QA Automation Tester</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://t.me/tvoivats" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" alt="Telegram" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
 
