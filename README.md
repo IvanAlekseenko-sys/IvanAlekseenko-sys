@@ -77,18 +77,6 @@ QA Automation Tester with experience in Java, Selenium, and API testing. Always 
   </a>
 </p>
 
-#### 🧰 Frameworks
-
-<p align="left">
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://noorteck.com/wp-content/uploads/2019/05/TestNG-Logo.png" alt="TestNG" width="40" height="40"/>
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit 5" width="40" height="40"/>
-  </a>
-</p>
-#### 🗄️ Databases & Version Control
-
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
