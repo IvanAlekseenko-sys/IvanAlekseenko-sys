@@ -77,6 +77,7 @@ QA Automation Tester with experience in Java, Selenium, and API testing. Always 
   </a>
 </p>
 
+#### 🗄️ Databases & Version Control
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
