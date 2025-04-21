@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">QA Automation Tester</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
+  <a href="https://t.me/@tvoivats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="telegram" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
