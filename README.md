@@ -3,7 +3,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-  <a href="https://t.me/@tvoivats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="telegram" height="30" width="30" /></a>
+  <a href="https://t.me/tvoivats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="telegram" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
