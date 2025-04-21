@@ -81,7 +81,7 @@ QA Automation Tester with experience in Java, Selenium, and API testing. Always 
 
 <p align="left">
   <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374171/testng.svg" alt="TestNG" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374171/testng.svg](https://noorteck.com/wp-content/uploads/2019/05/TestNG-Logo.png" alt="TestNG" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit 5" width="40" height="40"/>
